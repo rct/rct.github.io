@@ -7,3 +7,6 @@ To Do
 * Theme/templates?
 * Jekyll vs Awestruct vs ???
 * Bootstrap, PatternFly, etc.?
+* Try adding some sample (but static) Bootstrap and/or Patternfly pages.
+* Add pointers to various repos that I use.
+
